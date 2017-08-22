@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.security.gallagher.io" />
+          <option name="name" value="Gallagher" />
+          <option name="login" value="anton.aksiuta@gallagher.com" />
+          <password>dfcbdfc1df93df93df99df9fdf9bdf93</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

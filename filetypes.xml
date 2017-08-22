@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="application.properties" type="PLAIN_TEXT" />
+      <mapping ext="dll" type="PLAIN_TEXT" />
+      <mapping ext="cfg_backup" type="PLAIN_TEXT" />
+      <mapping ext="ftx" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping pattern="manifest_util" type="Ruby" />
+      <removed_mapping ext="dll" type="UNKNOWN" />
+    </extensionMap>
+  </component>
+</application>

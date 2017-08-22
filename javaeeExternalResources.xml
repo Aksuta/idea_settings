@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://springcryptoutils.com/schema/crypt" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/bb4f4966_crypt.xsd" />
+  </component>
+</application>
