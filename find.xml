@@ -16,6 +16,7 @@
       <mask>.xml</mask>
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
+      <mask>postgresql-9.3-1102-jdbc3.jar</mask>
     </recentFileMasks>
   </component>
 </application>
