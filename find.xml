@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,7 +19,17 @@
       <mask>postgresql-9.3-1102-jdbc3.jar</mask>
       <mask>lua</mask>
       <mask>lu</mask>
+      <mask>*.xml=</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sqj</mask>
+      <mask>*.sq,l</mask>
+      <mask>*.sq,</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
