@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,7 +15,6 @@
       <mask>*.mxml</mask>
       <mask>.xml</mask>
       <mask>po.xml</mask>
-      <mask>pom.xml</mask>
       <mask>postgresql-9.3-1102-jdbc3.jar</mask>
       <mask>lua</mask>
       <mask>lu</mask>
@@ -32,6 +32,7 @@
       <mask>README</mask>
       <mask>README.</mask>
       <mask>README.*</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
