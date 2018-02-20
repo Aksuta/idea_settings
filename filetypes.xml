@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="application.properties" type="PLAIN_TEXT" />
+      <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="cfg_backup" type="PLAIN_TEXT" />
       <mapping ext="ftx" type="PLAIN_TEXT" />
