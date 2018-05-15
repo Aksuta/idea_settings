@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ccp-controller-service/src/main/java/com/gallagher/security/controller/config_adapter/ProxyT20PartBase.java [ccp-controller-service]'" />
-    <option name="defaultScopeName" value="File '.../ccp-controller-service/src/main/java/com/gallagher/security/controller/config_adapter/ProxyT20PartBase.java [ccp-controller-service]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../ccp-controller-service/src/main/java/com/gallagher/security/controller/config_adapter/ProxyT20PartBase.java [ccp-controller-service]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
