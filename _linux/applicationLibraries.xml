@@ -260,5 +260,10 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="Python 3.6 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>

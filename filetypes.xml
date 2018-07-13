@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="application.properties" type="PLAIN_TEXT" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
+      <mapping pattern="helloWorld.py" type="PLAIN_TEXT" />
       <mapping ext="cfg_backup" type="PLAIN_TEXT" />
       <mapping ext="ftx" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
